@@ -4,7 +4,7 @@
 
 ## I'm Thiago!   
 
- Sou estudante de Engenharia de computação cursando atualmente o 7ºSemestre, tenho conhecimentos em HTML5, CSS3 desenvolvimento com as linguagens C, Python e PHP, gerenciamento de Banco de dados utilizando SQL Server, tenho conhecimentos com as plataformas Windows e Linux e gerenciamento de versões utilizando o Github.
+ Sou estudante de Engenharia de computação cursando atualmente, tenho conhecimentos em HTML5, CSS3 desenvolvimento com as linguagens C, Python e PHP, gerenciamento de Banco de dados utilizando SQL Server, tenho conhecimentos com as plataformas Windows e Linux e gerenciamento de versões utilizando o Github.
  
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
