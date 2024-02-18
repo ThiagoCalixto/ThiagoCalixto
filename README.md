@@ -15,4 +15,3 @@
 
 
 
-![Snake animation](https://github.com/ThiagoCalixto/ThiagoCalixto/blob/output/github-contribution-grid-snake.svg)
